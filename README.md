@@ -1,5 +1,3 @@
-Doing webscrape from https://www.imdb.com/ using Beautifulsoup in python
-
 # Web-Scrapping using Beautifulsoup
 Doing webscrape from https://www.imdb.com/ using Beautifulsoup in python
 
